@@ -1,8 +1,8 @@
 # Roshambo
 iOS mobile application to play rock, paper, scissors
-## Technology used
+### Technology used
 Swift 4
-## Steps to use the app
+### Steps to use the app
 * Download/clone the git repository
 * Open xcode with the project folder
 * Build and run the app on any iPhone simulator 
